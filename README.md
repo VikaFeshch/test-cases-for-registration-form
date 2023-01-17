@@ -20,17 +20,17 @@ Test Designed date:	27.12.2022
 
 id test case | Test technique | Sumary | Priority | Status
 --- | --- | --- | --- | ---
-[RF-1](https://drive.google.com/file/d/1u1dUw3espkdHY9oLuIxv87hMIVuyUdHG/view?usp=share_link) | Boundary Value Testing | Checking the ability to register in the form with field "First Name" which has multiple sets of Test Data			| High | 
-[RF-2](https://drive.google.com/file/d/1QqhSpoorHiJroKFRpEde5hcnKo_J-CtT/view?usp=share_link) | Error Guessing | Checking the ability to register in the form with an e-mail which has some set | High | 
-[RF-3](https://drive.google.com/file/d/1G0weGQyPf23tfmsJCjRineQeUXESQjTT/view?usp=share_link) | Cause/Effect (positive scenario) | Checking the ability to register in the form with "Confirm password" field which has same set as "Password" field	| High | 
-[RF-4](https://drive.google.com/file/d/1555A7LDZdGjbcLo1ERLtGkDbdDGHOfow/view?usp=share_link) | Cause/Effect (negative scenario) | Checking the ability to register in the form with "Confirm password" field which has different set as "Password" field	| High |
-[RF-5](https://drive.google.com/file/d/1vABvEdSRayN6JQL21mXl9GoJmJfmFVbA/view?usp=share_link) | Equivalence Partitioning | Checking the ability to register in the form with "Password" field which has characters of the Cyrillic alphabet	| High |
+[RF-1](https://drive.google.com/file/d/1XaWlHR6DUMjDD4zfsRYD5pSbCGfL6fQw/view?usp=share_link) | Boundary Value Testing | Checking the ability to register in the form with field "First Name" which has multiple sets of Test Data			| High | 
+[RF-2](https://drive.google.com/file/d/1GhJgyqXcoFq058jOSCrmV-KUuAgWcvgs/view?usp=share_link) | Error Guessing | Checking the ability to register in the form with an e-mail which has some set | High | 
+[RF-3](https://drive.google.com/file/d/1TB9315G_cmyjIGXRZYRyr5Qi0iHl0YJa/view?usp=share_link) | Cause/Effect (positive scenario) | Checking the ability to register in the form with "Confirm password" field which has same set as "Password" field	| High | 
+[RF-4](https://drive.google.com/file/d/1RykMy8lFxODc7YaMx6nVKSgidyy2grYh/view?usp=share_link) | Cause/Effect (negative scenario) | Checking the ability to register in the form with "Confirm password" field which has different set as "Password" field	| High |
+[RF-5](https://drive.google.com/file/d/18h-gsJhwjnc9K7Hm6JSctPRgOHXl3OgD/view?usp=share_link) | Equivalence Partitioning | Checking the ability to register in the form with "Password" field which has characters of the Cyrillic alphabet	| High |
 
 ## Test cases
 
 
-1. [Checking the ability to register in the form with field "First Name" which has multiple sets of Test Data](https://drive.google.com/file/d/1u1dUw3espkdHY9oLuIxv87hMIVuyUdHG/view?usp=share_link)
-2. [Checking the ability to register in the form with an e-mail which has some set](https://drive.google.com/file/d/1QqhSpoorHiJroKFRpEde5hcnKo_J-CtT/view?usp=share_link)
-3. [Checking the ability to register in the form with "Confirm password" field which has same set as "Password" field](https://drive.google.com/file/d/1G0weGQyPf23tfmsJCjRineQeUXESQjTT/view?usp=share_link)
-4. [Checking the ability to register in the form with "Confirm password" field which has different set as "Password" field](https://drive.google.com/file/d/1555A7LDZdGjbcLo1ERLtGkDbdDGHOfow/view?usp=share_link)
-5. [Checking the ability to register in the form with "Password" field which has characters of the Cyrillic alphabet](https://drive.google.com/file/d/1vABvEdSRayN6JQL21mXl9GoJmJfmFVbA/view?usp=share_link)
+1. [Checking the ability to register in the form with field "First Name" which has multiple sets of Test Data](https://drive.google.com/file/d/1XaWlHR6DUMjDD4zfsRYD5pSbCGfL6fQw/view?usp=share_link)
+2. [Checking the ability to register in the form with an e-mail which has some set](https://drive.google.com/file/d/1GhJgyqXcoFq058jOSCrmV-KUuAgWcvgs/view?usp=share_link)
+3. [Checking the ability to register in the form with "Confirm password" field which has same set as "Password" field](https://drive.google.com/file/d/1TB9315G_cmyjIGXRZYRyr5Qi0iHl0YJa/view?usp=share_link)
+4. [Checking the ability to register in the form with "Confirm password" field which has different set as "Password" field](https://drive.google.com/file/d/1RykMy8lFxODc7YaMx6nVKSgidyy2grYh/view?usp=share_link)
+5. [Checking the ability to register in the form with "Password" field which has characters of the Cyrillic alphabet](https://drive.google.com/file/d/18h-gsJhwjnc9K7Hm6JSctPRgOHXl3OgD/view?usp=share_link)
